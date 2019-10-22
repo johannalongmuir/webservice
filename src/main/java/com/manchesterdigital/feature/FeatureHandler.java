@@ -12,7 +12,6 @@ public class FeatureHandler {
 
     public void addFeatures (Feature newFeature) {
         newMap.put(newFeature.getName(), newFeature);
-        ghjdfsa
         // not best way to do it but will update whole entry in Map and change boolean
         //newFeature.setIsEnabled(!newFeature.getIsEnabled()? true:false);
 

@@ -7,8 +7,6 @@ import lombok.Data;
 @AllArgsConstructor
 public class Feature {
     private String name;
-
-    dgfjshtre
     private Boolean isEnabled;
 
 }

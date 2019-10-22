@@ -7,7 +7,6 @@ public class Main {
         /*Feature featureOne = new Feature("One", false);
         Feature featureTwo = new Feature("Two", false);
         FeatureHandler featureHandler = new FeatureHandler();
-dgjfst
         // I want to see Map printed. Expect it to be empty initially
         featureHandler.printMap();
 
