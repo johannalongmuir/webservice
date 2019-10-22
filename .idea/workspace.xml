@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="248f3c50-2718-4c5e-bf5e-5537651a94e7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myAutoScrollFromSource" value="true" />
+    <option name="myElementSize" value="90" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/webservice" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SNggsFBhO452xjHlwVB3yoc3LT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.manchesterdigital.feature" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.manchesterdigital" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FeatureHandlerTest">
+    <configuration name="FeatureHandlerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manchesterdigital.feature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.manchesterdigital.feature" />
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.feature.FeatureHandlerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeatureHandlerTest.aNewFeatureIsAddedCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manchesterdigital.feature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.manchesterdigital.feature" />
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.feature.FeatureHandlerTest" />
+      <option name="METHOD_NAME" value="aNewFeatureIsAddedCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeatureHandlerTest.aNewFeatureValueUpdatedToFalseUsingSetIsEnabled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manchesterdigital.feature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.manchesterdigital.feature" />
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.feature.FeatureHandlerTest" />
+      <option name="METHOD_NAME" value="aNewFeatureValueUpdatedToFalseUsingSetIsEnabled" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeatureHandlerTest.addFeatures_aNewFeatureValueUpdatedToFalseUsingSetIsEnabled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manchesterdigital.feature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.manchesterdigital.feature" />
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.feature.FeatureHandlerTest" />
+      <option name="METHOD_NAME" value="addFeatures_aNewFeatureValueUpdatedToFalseUsingSetIsEnabled" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeatureHandlerTest.addFeatures_aNewFeatureWithValueFalseHasValueUpdatedToTrueUsingSetIsEnabled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manchesterdigital.feature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.manchesterdigital.feature" />
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.feature.FeatureHandlerTest" />
+      <option name="METHOD_NAME" value="addFeatures_aNewFeatureWithValueFalseHasValueUpdatedToTrueUsingSetIsEnabled" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FeatureHandlerTest" />
+        <item itemvalue="JUnit.FeatureHandlerTest.aNewFeatureIsAddedCorrectly" />
+        <item itemvalue="JUnit.FeatureHandlerTest.addFeatures_aNewFeatureValueUpdatedToFalseUsingSetIsEnabled" />
+        <item itemvalue="JUnit.FeatureHandlerTest.addFeatures_aNewFeatureWithValueFalseHasValueUpdatedToTrueUsingSetIsEnabled" />
+        <item itemvalue="JUnit.FeatureHandlerTest.aNewFeatureValueUpdatedToFalseUsingSetIsEnabled" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="248f3c50-2718-4c5e-bf5e-5537651a94e7" name="Default Changelist" comment="" />
+      <created>1571409581619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571409581619</updated>
+      <workItem from="1571409584399" duration="5829000" />
+      <workItem from="1571671707164" duration="4022000" />
+      <workItem from="1571731026041" duration="12559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/webservice$FeatureHandlerTest_aNewFeatureIsAddedCorrectly.ic" NAME="FeatureHandlerTest.aNewFeatureIsAddedCorrectly Coverage Results" MODIFIED="1571745926472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.manchesterdigital.feature.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/webservice$FeatureHandlerTest.ic" NAME="FeatureHandlerTest Coverage Results" MODIFIED="1571745950302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.manchesterdigital.feature.*</FILTER>
+    </SUITE>
+  </component>
+</project>
