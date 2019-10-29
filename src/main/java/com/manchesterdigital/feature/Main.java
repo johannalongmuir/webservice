@@ -3,6 +3,17 @@ package com.manchesterdigital.feature;
 public class Main {
 
     public static void main(String[] args) {
+        FeatureHandler featureHandler = new FeatureHandler();
+        featureHandler.throwMyRuntimeException();
+        // if no try/catch will end up with compilation issues
+        // featureHandler.throwMyGenericException();
+        try {
+            featureHandler.throwMyGenericException();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+
         // Features one and two
         /*Feature featureOne = new Feature("One", false);
         Feature featureTwo = new Feature("Two", false);

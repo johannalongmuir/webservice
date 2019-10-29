@@ -17,5 +17,15 @@ public class FeatureHandler {
 
     }
 
+    public void throwMyRuntimeException() {
+        throw new RuntimeException("");
+        // cannot catch
+
+    }
+
+    public void throwMyGenericException() throws Exception {
+        throw new Exception("");
+
+    }
 
 }
